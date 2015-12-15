@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+h1 {
+    font-size: 63px;
+}
+
+.topbox {
+padding: 48px 30px 48px 30px;
+margin-bottom: 30px;
+color: inherit;
+background-color: #eee;
+width: 100%;
+}
+
+.signin {
+    padding-top: 10px;
+    padding-right: 15px;
+}
+
+.nav-color {
+    background-color: #101010;
+}
+
+.btn-margin {
+    margin: 0 10px 0 0;
+}
